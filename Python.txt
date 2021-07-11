@@ -5,5 +5,13 @@ Python is Powerful language
 
 Python is open source
 
+Python works on django framework
+devops uses python
+
 Thanks
+
+
+fianl
+
 Done
+
