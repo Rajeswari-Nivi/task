@@ -2,3 +2,6 @@ Welcome to Python
 
 Python is simple language
 Python is Powerful language
+
+Python is open source
+
